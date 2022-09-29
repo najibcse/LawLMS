@@ -1,9 +1,0 @@
-Please replace the following files with the specified paths to enable the "course forum" plugin:
-
-answers_lists.blade.php >>>>>>> \resources\views\admin\webinars\forum
-
-course_lists.blade.php >>>>>> \resources\views\admin\webinars\forum
-
-question_lists.blade.php >>>>>> \resources\views\admin\webinars\forum
-
-features.blade.php >>>>>>> \resources\views\admin\settings\general

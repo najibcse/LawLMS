@@ -1,3 +1,0 @@
-Please replace the following files with the specified paths to enable the "Payment Gateways" plugin:
-
-Copy all of .PHP files >>>>>>> config\

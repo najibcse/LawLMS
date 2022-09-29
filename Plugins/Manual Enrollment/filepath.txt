@@ -1,5 +1,0 @@
-Please replace the following files with the specified paths to enable the "manual enrollment" plugin:
-
-history.blade.php >>>>>>> \resources\views\admin\enrollment
-
-add_student_to_a_class.blade.php >>>>>> \resources\views\admin\enrollment

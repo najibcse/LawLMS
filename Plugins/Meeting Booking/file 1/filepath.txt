@@ -1,3 +1,0 @@
-Please replace the following files with the specified paths to enable the "meeting booking" plugin:
-
-lists.blade.php >>>>>>> resources\views\admin\consultants
