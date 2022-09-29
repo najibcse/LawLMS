@@ -1,0 +1,7 @@
+Please replace the following files with the specified paths to enable the "private mode" plugin:
+
+features.blade.php >>>>>>> \resources\views\admin\settings\general
+
+not_access_to_content.blade.php >>>>>>>> \resources\views\admin\users
+
+

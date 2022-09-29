@@ -1,0 +1,9 @@
+Please replace the following files with the specified paths to enable the "store" plugin:
+
+create.blade.php >>>>>>> \resources\views\admin\store\products
+
+lists.blade.php >>>>>> \resources\views\admin\store\products
+
+settings.blade.php >>>>>>> \resources\views\admin\store
+
+

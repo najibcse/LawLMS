@@ -1,0 +1,9 @@
+Please replace the following files with the specified paths to enable the "Totur Map" plugin:
+
+create.blade.php >>>>>>> \resources\views\admin\regions
+
+index.blade.php >>>>>>> \resources\views\admin\regions
+
+
+
+

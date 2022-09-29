@@ -1,0 +1,5 @@
+Please replace the following files with the specified paths to enable the "forums" plugin:
+
+lists.blade.php >>>>>>> \resources\views\admin\forums\featured_topics
+
+create.blade.php >>>>>> \resources\views\admin\forums\featured_topics

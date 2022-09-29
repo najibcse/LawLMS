@@ -1,0 +1,4 @@
+Please replace the following files with the specified paths to enable the "Organization Learning" plugin:
+
+organizations.blade.php >>>>>>> resources\views\admin\users
+

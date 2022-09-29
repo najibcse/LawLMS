@@ -1,0 +1,5 @@
+Please replace the following files with the specified paths to enable the "drip" plugin:
+
+features.blade.php >>>>>>> \resources\views\admin\settings\general
+
+

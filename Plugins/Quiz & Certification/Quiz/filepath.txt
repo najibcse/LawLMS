@@ -1,0 +1,4 @@
+Please replace the following files with the specified paths to enable the "Quiz and Certification" plugin:
+
+lists.blade.php >>>>>>> resources\views\admin\quizzes
+create_quiz_form.blade.php >>>>>>> resources\views\web\default\panel\quizzes
